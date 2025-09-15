@@ -44,7 +44,7 @@ Since Kaggle does not provide this dataset by default, the typical workflow is:
 
 This ensures reproducibility and allows for consistent experimentation across different runs.  
 
-
+![Sample 3](assets/photo_2025-09-15_14-19-19.jpg)
 ## Results
 
 The current model has achieved the following:
